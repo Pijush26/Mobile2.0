@@ -1,0 +1,9 @@
+2021-09-16 15:27:04:09S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startRecord:Launching Server for Record
+2021-09-16 15:27:04:09S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+2021-09-16 15:27:21:09S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+2021-09-16 17:42:27:09S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startRecord:Launching Server for Record
+2021-09-16 17:42:27:09S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+2021-09-16 17:43:09:09S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+2021-09-29 13:52:34:09S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startRecord:Launching Server for Record
+2021-09-29 13:52:34:09S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+2021-09-29 13:53:35:09S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped

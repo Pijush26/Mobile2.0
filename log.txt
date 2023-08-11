@@ -1,0 +1,1270 @@
+2021-09-16 15:22:18:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2021-09-16 15:22:19:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-16 15:22:22:09S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2021-09-16 15:22:58:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\NewScenario\NewTestCase.csv] doesn't exist
+2021-09-16 15:22:58:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestLab\NewRelease\NewTestSet.csv] doesn't exist
+jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/cognizant-intelligent-test-scripter-extensionconnect-2.0.jar!/localhost
+2021-09-16 15:27:04:09S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startRecord:Launching Server for Record
+2021-09-16 15:27:04:09S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/cognizant-intelligent-test-scripter-extensionconnect-2.0.jar!/localhost
+2021-09-16 15:27:21:09S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+2021-09-16 16:52:47:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 01:30:29.479 ]
+2021-09-16 16:53:02:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2021-09-16 16:53:03:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-16 16:53:05:09S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2021-09-16 17:13:27:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\NewScenario Renamed to API testing
+2021-09-16 17:13:27:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorScenario:Refactoring started for Scenario [NewScenario] to [API testing]
+2021-09-16 17:13:27:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorScenario:Refactoring done for Scenario [NewScenario] to [API testing]
+2021-09-16 17:13:38:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\API testing\NewTestCase.csv Renamed to soap.csv
+2021-09-16 17:13:38:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase] to [soap]
+2021-09-16 17:13:38:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase] to [soap]
+2021-09-16 17:14:36:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\API testing Renamed to Soap
+2021-09-16 17:14:36:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorScenario:Refactoring started for Scenario [API testing] to [Soap]
+2021-09-16 17:14:36:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorScenario:Refactoring done for Scenario [API testing] to [Soap]
+2021-09-16 17:14:44:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Soap\soap.csv Renamed to post.csv
+2021-09-16 17:14:44:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [soap] to [post]
+2021-09-16 17:14:44:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [soap] to [post]
+2021-09-16 17:22:43:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-16 17:29:19:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-16 17:30:15:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 00:37:13.499 ]
+2021-09-16 17:35:15:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2021-09-16 17:35:16:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-16 17:35:22:09S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2021-09-16 17:39:53:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\NewScenario\NewTestCase.csv] doesn't exist
+jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/cognizant-intelligent-test-scripter-extensionconnect-2.0.jar!/localhost
+2021-09-16 17:42:27:09S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startRecord:Launching Server for Record
+2021-09-16 17:42:27:09S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+2021-09-16 17:42:51:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Browser[null] - Open - @https://www.google.com/
+2021-09-16 17:43:02:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Added : Google Search
+2021-09-16 17:43:02:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[Google Search] - Click - null
+2021-09-16 17:43:06:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Added : I'm Feeling Lucky
+2021-09-16 17:43:06:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[I'm Feeling Lucky] - Click - null
+jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/cognizant-intelligent-test-scripter-extensionconnect-2.0.jar!/localhost
+2021-09-16 17:43:09:09S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+2021-09-16 17:43:33:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-16 17:45:13:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-16 17:45:50:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-16 19:09:12:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 01:33:57.573 ]
+2021-09-17 09:24:15:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2021-09-17 09:24:16:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 09:24:20:09S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2021-09-17 09:26:09:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 00:01:54.008 ]
+2021-09-17 09:33:36:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2021-09-17 09:33:37:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 09:33:42:09S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2021-09-17 09:52:24:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 09:53:52:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 09:56:06:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 09:56:33:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 10:06:02:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 10:08:44:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\NewScenario0 Renamed to Rest
+2021-09-17 10:08:44:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorScenario:Refactoring started for Scenario [NewScenario0] to [Rest]
+2021-09-17 10:08:44:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorScenario:Refactoring done for Scenario [NewScenario0] to [Rest]
+2021-09-17 10:08:47:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase.csv] doesn't exist
+2021-09-17 10:08:50:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase0.csv] doesn't exist
+2021-09-17 10:14:21:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 10:15:07:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase.csv Renamed to put.csv
+2021-09-17 10:15:07:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase] to [put]
+2021-09-17 10:15:07:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase] to [put]
+2021-09-17 10:15:14:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase0.csv Renamed to Get.csv
+2021-09-17 10:15:14:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase0] to [Get]
+2021-09-17 10:15:14:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase0] to [Get]
+2021-09-17 10:15:19:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase.csv] doesn't exist
+2021-09-17 10:15:22:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase0.csv] doesn't exist
+2021-09-17 10:15:31:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase.csv Renamed to Delete.csv
+2021-09-17 10:15:31:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase] to [Delete]
+2021-09-17 10:15:31:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase] to [Delete]
+2021-09-17 10:15:39:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase0.csv Renamed to post.csv
+2021-09-17 10:15:39:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase0] to [post]
+2021-09-17 10:15:39:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase0] to [post]
+2021-09-17 10:25:31:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 10:27:03:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 10:27:56:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 10:29:11:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 10:30:02:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 10:32:49:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 10:54:07:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 10:59:00:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 11:06:45:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase.csv] doesn't exist
+2021-09-17 11:17:44:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 11:20:27:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 11:21:46:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 12:40:31:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 12:41:32:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 12:44:38:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 12:45:54:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 12:49:43:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 12:51:16:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 12:52:49:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 12:59:24:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 16:16:20:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestLab\NewRelease\NewTestSet.csv] doesn't exist
+2021-09-17 16:16:44:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 17:20:02:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 17:22:09:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 17:22:43:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 17:23:32:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 17:36:30:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-17 17:37:27:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 08:03:51.095 ]
+2021-09-20 19:20:01:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2021-09-20 19:20:02:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-20 19:20:06:09S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2021-09-20 19:33:44:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 00:13:42.996 ]
+2021-09-20 19:59:59:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2021-09-20 20:00:00:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-20 20:00:05:09S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2021-09-20 20:00:16:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.help.Help openInBrowser:Opening url https://cognizantqahub.github.io/Cognizant-Intelligent-Test-Scripter-Helpdoc
+2021-09-20 20:32:31:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 00:32:32.277 ]
+2021-09-21 16:34:25:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2021-09-21 16:34:27:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-21 16:34:31:09S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2021-09-21 16:35:38:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-21 19:05:24:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 02:30:59.818 ]
+2021-09-22 17:02:34:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2021-09-22 17:02:35:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-22 17:02:38:09S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2021-09-22 17:17:30:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 00:14:56.403 ]
+2021-09-23 08:56:32:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2021-09-23 08:56:34:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 08:56:38:09S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2021-09-23 08:58:36:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase.csv Renamed to Get1.csv
+2021-09-23 08:58:36:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase] to [Get1]
+2021-09-23 08:58:36:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase] to [Get1]
+2021-09-23 09:55:32:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 10:01:10:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 10:03:34:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase.csv] doesn't exist
+2021-09-23 10:10:32:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 10:30:10:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 10:31:46:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 10:47:57:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase.csv Renamed to Get_dynamic var.csv
+2021-09-23 10:47:57:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase] to [Get_dynamic var]
+2021-09-23 10:47:57:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase] to [Get_dynamic var]
+2021-09-23 10:50:25:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 10:51:38:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 10:53:00:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\Get_dynamic var.csv Renamed to Post_dynamic var.csv
+2021-09-23 10:53:00:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [Get_dynamic var] to [Post_dynamic var]
+2021-09-23 10:53:00:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [Get_dynamic var] to [Post_dynamic var]
+2021-09-23 10:56:47:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 10:57:22:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 11:01:10:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 11:02:00:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 11:03:30:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 11:04:54:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 11:05:58:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 11:06:40:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 11:16:35:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase.csv] doesn't exist
+2021-09-23 11:16:47:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase.csv Renamed to Post_payload.csv
+2021-09-23 11:16:47:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase] to [Post_payload]
+2021-09-23 11:16:47:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase] to [Post_payload]
+2021-09-23 13:33:55:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 13:35:08:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 14:23:15:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 14:26:26:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 14:31:41:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase.csv] doesn't exist
+2021-09-23 14:31:53:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase.csv Renamed to put1.csv
+2021-09-23 14:31:53:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase] to [put1]
+2021-09-23 14:31:53:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase] to [put1]
+2021-09-23 14:33:46:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 14:34:14:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.mainui.components.testdesign.tree.ProjectTree deleteTestCases:Delete TestCases approved for 1; [put1]
+2021-09-23 14:34:14:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\put1.csv
+2021-09-23 14:57:57:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase.csv] doesn't exist
+2021-09-23 14:59:50:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 15:00:32:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.mainui.components.testdesign.tree.ProjectTree deleteTestCases:Delete TestCases approved for 1; [NewTestCase]
+2021-09-23 15:00:32:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase.csv
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+	at com.cognizant.cognizantits.ide.main.mainui.components.testdesign.testcase.TestCaseComponent.addRow(TestCaseComponent.java:458)
+	at com.cognizant.cognizantits.ide.main.mainui.components.testdesign.testcase.TestCaseComponent.addLastRow(TestCaseComponent.java:452)
+	at com.cognizant.cognizantits.ide.main.mainui.components.testdesign.testcase.TestCaseComponent$18.mouseClicked(TestCaseComponent.java:287)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseClicked(AWTEventMulticaster.java:278)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseClicked(AWTEventMulticaster.java:277)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6638)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3342)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6400)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4556)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2772)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2021-09-23 15:28:12:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2021-09-23 15:28:13:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 15:28:15:09S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2021-09-23 15:28:40:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 00:00:27.484 ]
+2021-09-23 15:30:48:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 15:35:09:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 15:55:36:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 16:04:52:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 16:06:58:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 16:19:59:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 17:08:27:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-23 17:15:04:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 08:18:31.024 ]
+2021-09-27 17:24:39:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2021-09-27 17:24:40:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-27 17:24:43:09S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2021-09-27 17:25:10:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-27 18:56:38:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-27 19:00:10:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-27 19:01:21:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-27 19:03:08:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-27 19:05:19:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-27 19:06:40:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-27 19:09:52:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 01:45:16.567 ]
+2021-09-28 14:59:32:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2021-09-28 14:59:33:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-28 14:59:36:09S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2021-09-28 15:18:20:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Mobile automation\TestPlan\NewScenario\NewTestCase.csv] doesn't exist
+2021-09-28 15:18:20:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Mobile automation\TestLab\NewRelease\NewTestSet.csv] doesn't exist
+2021-09-28 15:36:02:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 00:36:29.798 ]
+2021-09-28 15:36:45:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2021-09-28 15:36:46:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-28 15:36:48:09S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2021-09-28 15:39:44:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Mobile automation\TestPlan\NewScenario\NewTestCase.csv Renamed to selendroid.csv
+2021-09-28 15:39:44:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase] to [selendroid]
+2021-09-28 15:39:44:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase] to [selendroid]
+2021-09-28 15:42:10:09S +0530 [SEVERE] com.cognizant.cognizantits.ide.main.shr.mobile.android.AndroidAdbCLI takeXML:null
+java.io.IOException: Non-zero return code from pull command:
+adb: error: failed to stat remote object '/sdcard/uidump.xml': No such file or directory
+
+	at com.cognizant.cognizantits.ide.main.shr.mobile.android.AndroidAdbCLI.takeXML(AndroidAdbCLI.java:162)
+	at com.cognizant.cognizantits.ide.main.shr.mobile.MobileObjectSpy$35.run(MobileObjectSpy.java:1340)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+2021-09-28 15:42:25:09S +0530 [SEVERE] com.cognizant.cognizantits.ide.main.shr.mobile.android.AndroidAdbCLI takeXML:null
+java.io.IOException: Non-zero return code from "rm" xml dump command:
+rm: /sdcard/uidump.xml: No such file or directory
+
+	at com.cognizant.cognizantits.ide.main.shr.mobile.android.AndroidAdbCLI.takeXML(AndroidAdbCLI.java:136)
+	at com.cognizant.cognizantits.ide.main.shr.mobile.MobileObjectSpy$35.run(MobileObjectSpy.java:1340)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+2021-09-28 15:50:47:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-28 15:51:51:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.help.Help openInBrowser:Opening url https://cognizantqahub.github.io/Cognizant-Intelligent-Test-Scripter-Helpdoc
+2021-09-28 15:53:05:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-28 15:55:52:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-28 15:57:27:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-28 16:16:30:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 00:39:45.059 ]
+2021-09-28 16:16:32:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2021-09-28 16:16:33:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-28 16:16:35:09S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2021-09-28 16:18:34:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 00:02:01.799 ]
+2021-09-28 16:18:35:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2021-09-28 16:18:36:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-28 16:18:38:09S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2021-09-28 16:21:38:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.mainui.components.testdesign.tree.ProjectTree deleteTestCases:Delete TestCases approved for 5; [calc, chrome, flipkart, myntra, NewTestCase]
+2021-09-28 16:21:38:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Mobile automation\TestPlan\NewScenario\calc.csv
+2021-09-28 16:21:38:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Mobile automation\TestPlan\NewScenario\chrome.csv
+2021-09-28 16:21:38:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Mobile automation\TestPlan\NewScenario\flipkart.csv
+2021-09-28 16:21:38:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Mobile automation\TestPlan\NewScenario\myntra.csv
+2021-09-28 16:21:38:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Mobile automation\TestPlan\NewScenario\NewTestCase.csv
+2021-09-28 16:22:59:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-28 16:43:15:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 00:24:40.437 ]
+2021-09-28 17:17:53:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2021-09-28 17:17:54:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-28 17:17:56:09S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2021-09-28 18:31:53:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase.csv] doesn't exist
+2021-09-28 18:32:16:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase.csv Renamed to TC_11.csv
+2021-09-28 18:32:16:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase] to [TC_11]
+2021-09-28 18:32:16:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase] to [TC_11]
+2021-09-28 18:34:37:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-28 18:34:49:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-28 18:43:49:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-28 18:59:30:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-28 19:07:21:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-28 19:09:03:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-28 19:36:31:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Mobile automation\TestPlan\NewScenario\NewTestCase.csv] doesn't exist
+2021-09-28 19:36:40:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Mobile automation\TestPlan\NewScenario\NewTestCase.csv Renamed to flipkart.csv
+2021-09-28 19:36:40:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase] to [flipkart]
+2021-09-28 19:36:40:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase] to [flipkart]
+2021-09-28 19:39:58:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Mobile automation\MobileObjectRepository\com.flipkart.android\banner_image Renamed to all category
+2021-09-28 19:39:58:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Mobile automation\MobileObjectRepository\com.flipkart.android\all category\banner_image Renamed to all category
+2021-09-28 19:40:08:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Mobile automation\MobileObjectRepository\com.flipkart.android\ Search for Products, Brands and More Renamed to search bar
+2021-09-28 19:40:08:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Mobile automation\MobileObjectRepository\com.flipkart.android\search bar\ Search for Products, Brands and More Renamed to search bar
+2021-09-28 19:46:21:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-28 19:46:37:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-28 19:51:12:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Image Testing\TestPlan\NewScenario\NewTestCase.csv] doesn't exist
+2021-09-28 19:51:12:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Image Testing\TestLab\NewRelease\NewTestSet.csv] doesn't exist
+2021-09-28 19:51:26:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 02:33:32.954 ]
+2021-09-29 09:38:34:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2021-09-29 09:38:36:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 09:38:39:09S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2021-09-29 09:47:54:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 09:52:23:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Mobile automation\MobileObjectRepository\com.flipkart.android\banner_image Renamed to mobiles_image
+2021-09-29 09:52:23:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Mobile automation\MobileObjectRepository\com.flipkart.android\mobiles_image\banner_image Renamed to mobiles_image
+2021-09-29 09:53:35:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 10:04:17:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Mobile automation\MobileObjectRepository\io.selendroid.testapp\input_preferedProgrammingLanguage Renamed to DD-ProgrammingLanguage
+2021-09-29 10:04:17:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Mobile automation\MobileObjectRepository\io.selendroid.testapp\DD-ProgrammingLanguage\input_preferedProgrammingLanguage Renamed to DD-ProgrammingLanguage
+2021-09-29 10:08:47:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 10:11:12:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 10:12:58:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 10:32:17:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 00:53:42.951 ]
+2021-09-29 10:58:44:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2021-09-29 10:58:44:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 10:58:47:09S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2021-09-29 11:04:27:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:A File with Name {1} already exists, failed to rename {0}
+2021-09-29 11:04:46:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:A File with Name {1} already exists, failed to rename {0}
+2021-09-29 11:05:06:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Mobile automation\MobileObjectRepository\io.selendroid.testapp\Mr. Burns Renamed to name txt
+2021-09-29 11:05:06:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Mobile automation\MobileObjectRepository\io.selendroid.testapp\name txt\Mr. Burns Renamed to name txt
+2021-09-29 11:09:02:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 11:12:15:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 11:15:03:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 11:16:37:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 11:18:00:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 11:20:39:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 11:22:10:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 11:29:01:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 11:30:42:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 11:31:20:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 11:33:45:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 13:47:07:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 13:47:17:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 13:48:25:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 13:49:23:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Image Testing\TestPlan\NewScenario\NewTestCase.csv Renamed to calc.csv
+2021-09-29 13:49:23:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase] to [calc]
+2021-09-29 13:49:23:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase] to [calc]
+2021-09-29 13:49:31:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Image Testing\TestPlan\NewScenario\NewTestCase.csv] doesn't exist
+2021-09-29 13:49:39:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Image Testing\TestPlan\NewScenario\NewTestCase.csv Renamed to browser.csv
+2021-09-29 13:49:39:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase] to [browser]
+2021-09-29 13:49:39:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase] to [browser]
+jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/cognizant-intelligent-test-scripter-extensionconnect-2.0.jar!/localhost
+2021-09-29 13:52:34:09S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer startRecord:Launching Server for Record
+2021-09-29 13:52:34:09S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Starting Server
+2021-09-29 13:52:47:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Browser[null] - Open - @https://opensource-demo.orangehrmlive.com/
+2021-09-29 13:52:55:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Added : txtUsername
+2021-09-29 13:52:55:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[txtUsername] - Click - null
+2021-09-29 13:52:56:09S +0530 [WARNING] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Already Present
+Page : OrangeHRM
+Object : txtUsername
+2021-09-29 13:52:56:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[txtUsername] - Set - @Admin
+2021-09-29 13:52:57:09S +0530 [WARNING] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Already Present
+Page : OrangeHRM
+Object : txtUsername
+2021-09-29 13:52:57:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[txtUsername] - Set - @Admin
+2021-09-29 13:52:58:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Added : txtPassword
+2021-09-29 13:52:58:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[txtPassword] - Click - null
+2021-09-29 13:53:05:09S +0530 [WARNING] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Already Present
+Page : OrangeHRM
+Object : txtPassword
+2021-09-29 13:53:05:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[txtPassword] - setEncrypted - @admin123
+2021-09-29 13:53:05:09S +0530 [WARNING] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Already Present
+Page : OrangeHRM
+Object : txtPassword
+2021-09-29 13:53:05:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[txtPassword] - setEncrypted - @admin123
+2021-09-29 13:53:05:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder saveObjectToPage:Object Added : LOGIN
+2021-09-29 13:53:05:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.shr.web.Recorder addAsStep:Object[LOGIN] - Click - null
+2021-09-29 13:53:35:09S +0530 [INFO] com.cognizant.cognizantits.extension.server.ExtensionServer$1 run:Server Stopped
+jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/cognizant-intelligent-test-scripter-extensionconnect-2.0.jar!/localhost
+Exception in thread "AWT-EventQueue-0" java.lang.IllegalArgumentException: image == null!
+	at java.desktop/javax.imageio.ImageTypeSpecifier.createFromRenderedImage(ImageTypeSpecifier.java:925)
+	at java.desktop/javax.imageio.ImageIO.getWriter(ImageIO.java:1608)
+	at java.desktop/javax.imageio.ImageIO.write(ImageIO.java:1540)
+	at com.cognizant.cognizantits.ide.main.shr.image.ImageSpy.saveImage(ImageSpy.java:712)
+	at com.cognizant.cognizantits.ide.main.shr.image.ImageSpy.saveObject(ImageSpy.java:695)
+	at com.cognizant.cognizantits.ide.main.shr.image.ImageSpy.addObject(ImageSpy.java:598)
+	at com.cognizant.cognizantits.ide.main.shr.image.ImageSpy.addObjectButtonActionPerformed(ImageSpy.java:395)
+	at com.cognizant.cognizantits.ide.main.shr.image.ImageSpy$14.actionPerformed(ImageSpy.java:326)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6635)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3342)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6400)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2772)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2021-09-29 14:00:34:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 14:01:38:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 14:03:00:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-29 14:59:33:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Image Testing\ImageObjectRepository\sample\xl\xl
+2021-09-29 14:59:33:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Image Testing\ImageObjectRepository\sample\xl
+2021-09-29 14:59:33:09S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Image Testing\ImageObjectRepository\sample
+2021-09-29 17:51:33:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 06:52:49.387 ]
+2021-09-30 09:45:26:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2021-09-30 09:45:27:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-30 09:45:30:09S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2021-09-30 09:57:35:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-30 09:59:55:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-30 10:02:30:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+	at com.cognizant.cognizantits.ide.main.shr.mobile.android.AndroidTree.loadTree(AndroidTree.java:50)
+	at com.cognizant.cognizantits.ide.main.shr.mobile.MobileObjectSpy.jButton5ActionPerformed(MobileObjectSpy.java:1081)
+	at com.cognizant.cognizantits.ide.main.shr.mobile.MobileObjectSpy$11.actionPerformed(MobileObjectSpy.java:339)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6635)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3342)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6400)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2772)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:117)
+	at java.desktop/java.awt.WaitDispatchSupport$2.run(WaitDispatchSupport.java:190)
+	at java.desktop/java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:235)
+	at java.desktop/java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:233)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.desktop/java.awt.WaitDispatchSupport.enter(WaitDispatchSupport.java:233)
+	at java.desktop/java.awt.Dialog.show(Dialog.java:1070)
+	at java.desktop/java.awt.Component.show(Component.java:1716)
+	at java.desktop/java.awt.Component.setVisible(Component.java:1663)
+	at java.desktop/java.awt.Window.setVisible(Window.java:1031)
+	at java.desktop/java.awt.Dialog.setVisible(Dialog.java:1005)
+	at com.cognizant.cognizantits.ide.main.shr.mobile.MobileObjectSpy.showOpenDialog(MobileObjectSpy.java:1315)
+	at com.cognizant.cognizantits.ide.main.shr.mobile.MobileObjectSpy.jMenuItem1ActionPerformed(MobileObjectSpy.java:1045)
+	at com.cognizant.cognizantits.ide.main.shr.mobile.MobileObjectSpy$3.actionPerformed(MobileObjectSpy.java:252)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.AbstractButton.doClick(AbstractButton.java:369)
+	at java.desktop/javax.swing.plaf.basic.BasicMenuItemUI.doClick(BasicMenuItemUI.java:1020)
+	at java.desktop/javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(BasicMenuItemUI.java:1064)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6635)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3342)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6400)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2772)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+	at com.cognizant.cognizantits.ide.main.shr.mobile.android.AndroidTree.loadTree(AndroidTree.java:50)
+	at com.cognizant.cognizantits.ide.main.shr.mobile.MobileObjectSpy.jButton5ActionPerformed(MobileObjectSpy.java:1081)
+	at com.cognizant.cognizantits.ide.main.shr.mobile.MobileObjectSpy$11.actionPerformed(MobileObjectSpy.java:339)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6635)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3342)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6400)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2772)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:117)
+	at java.desktop/java.awt.WaitDispatchSupport$2.run(WaitDispatchSupport.java:190)
+	at java.desktop/java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:235)
+	at java.desktop/java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:233)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.desktop/java.awt.WaitDispatchSupport.enter(WaitDispatchSupport.java:233)
+	at java.desktop/java.awt.Dialog.show(Dialog.java:1070)
+	at java.desktop/java.awt.Component.show(Component.java:1716)
+	at java.desktop/java.awt.Component.setVisible(Component.java:1663)
+	at java.desktop/java.awt.Window.setVisible(Window.java:1031)
+	at java.desktop/java.awt.Dialog.setVisible(Dialog.java:1005)
+	at com.cognizant.cognizantits.ide.main.shr.mobile.MobileObjectSpy.showOpenDialog(MobileObjectSpy.java:1315)
+	at com.cognizant.cognizantits.ide.main.shr.mobile.MobileObjectSpy.jMenuItem1ActionPerformed(MobileObjectSpy.java:1045)
+	at com.cognizant.cognizantits.ide.main.shr.mobile.MobileObjectSpy$3.actionPerformed(MobileObjectSpy.java:252)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.AbstractButton.doClick(AbstractButton.java:369)
+	at java.desktop/javax.swing.plaf.basic.BasicMenuItemUI.doClick(BasicMenuItemUI.java:1020)
+	at java.desktop/javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(BasicMenuItemUI.java:1064)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6635)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3342)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6400)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2772)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2021-09-30 13:10:59:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-30 13:13:12:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-30 13:16:09:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-30 13:17:39:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-30 13:18:40:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-30 13:24:35:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-30 13:26:56:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-30 13:29:44:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-30 13:34:02:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-30 13:37:16:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase.csv] doesn't exist
+2021-09-30 13:38:21:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-30 14:47:00:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-30 14:48:11:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-30 14:53:07:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-30 15:47:07:09S +0530 [SEVERE] com.cognizant.cognizantits.ide.main.shr.mobile.android.AndroidAdbCLI takeScreenshot:null
+java.io.IOException: Non-zero return code from "rm" screenshot command:
+rm: /sdcard/screenshot.png: No such file or directory
+
+	at com.cognizant.cognizantits.ide.main.shr.mobile.android.AndroidAdbCLI.takeScreenshot(AndroidAdbCLI.java:87)
+	at com.cognizant.cognizantits.ide.main.shr.mobile.MobileObjectSpy$35.run(MobileObjectSpy.java:1341)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+	at com.cognizant.cognizantits.ide.main.shr.mobile.android.AndroidTree.loadTree(AndroidTree.java:50)
+	at com.cognizant.cognizantits.ide.main.shr.mobile.MobileObjectSpy.loadFromPage(MobileObjectSpy.java:1259)
+	at com.cognizant.cognizantits.ide.main.shr.mobile.MobileObjectSpy.loadFromPageActionPerformed(MobileObjectSpy.java:1133)
+	at com.cognizant.cognizantits.ide.main.shr.mobile.MobileObjectSpy$8.actionPerformed(MobileObjectSpy.java:302)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.AbstractButton.doClick(AbstractButton.java:369)
+	at java.desktop/javax.swing.plaf.basic.BasicMenuItemUI.doClick(BasicMenuItemUI.java:1020)
+	at java.desktop/javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(BasicMenuItemUI.java:1064)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6635)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3342)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6400)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2772)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+	at com.cognizant.cognizantits.ide.main.shr.mobile.android.AndroidTree.loadTree(AndroidTree.java:50)
+	at com.cognizant.cognizantits.ide.main.shr.mobile.MobileObjectSpy.loadFromPage(MobileObjectSpy.java:1259)
+	at com.cognizant.cognizantits.ide.main.shr.mobile.MobileObjectSpy.loadFromPageActionPerformed(MobileObjectSpy.java:1133)
+	at com.cognizant.cognizantits.ide.main.shr.mobile.MobileObjectSpy$8.actionPerformed(MobileObjectSpy.java:302)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.AbstractButton.doClick(AbstractButton.java:369)
+	at java.desktop/javax.swing.plaf.basic.BasicMenuItemUI.doClick(BasicMenuItemUI.java:1020)
+	at java.desktop/javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(BasicMenuItemUI.java:1064)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6635)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3342)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6400)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2772)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2021-09-30 15:58:30:09S +0530 [SEVERE] com.cognizant.cognizantits.ide.main.shr.mobile.android.AndroidAdbCLI takeXML:null
+java.io.IOException: Non-zero return code from "rm" xml dump command:
+adb.exe: device '8a06d79d' not found
+
+	at com.cognizant.cognizantits.ide.main.shr.mobile.android.AndroidAdbCLI.takeXML(AndroidAdbCLI.java:136)
+	at com.cognizant.cognizantits.ide.main.shr.mobile.MobileObjectSpy$35.run(MobileObjectSpy.java:1340)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+2021-09-30 15:58:30:09S +0530 [SEVERE] com.cognizant.cognizantits.ide.main.shr.mobile.android.AndroidAdbCLI takeXML:null
+java.io.IOException: Non-zero return code from dump command:
+adb.exe: device '8a06d79d' not found
+
+	at com.cognizant.cognizantits.ide.main.shr.mobile.android.AndroidAdbCLI.takeXML(AndroidAdbCLI.java:149)
+	at com.cognizant.cognizantits.ide.main.shr.mobile.MobileObjectSpy$35.run(MobileObjectSpy.java:1340)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+2021-09-30 15:58:30:09S +0530 [SEVERE] com.cognizant.cognizantits.ide.main.shr.mobile.android.AndroidAdbCLI takeScreenshot:null
+java.io.IOException: Non-zero return code from "rm" screenshot command:
+adb.exe: device '8a06d79d' not found
+
+	at com.cognizant.cognizantits.ide.main.shr.mobile.android.AndroidAdbCLI.takeScreenshot(AndroidAdbCLI.java:87)
+	at com.cognizant.cognizantits.ide.main.shr.mobile.MobileObjectSpy$35.run(MobileObjectSpy.java:1341)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+2021-09-30 15:58:31:09S +0530 [SEVERE] com.cognizant.cognizantits.ide.main.shr.mobile.android.AndroidAdbCLI takeScreenshot:null
+java.io.IOException: Non-zero return code from screenshot command:
+adb.exe: device '8a06d79d' not found
+
+	at com.cognizant.cognizantits.ide.main.shr.mobile.android.AndroidAdbCLI.takeScreenshot(AndroidAdbCLI.java:99)
+	at com.cognizant.cognizantits.ide.main.shr.mobile.MobileObjectSpy$35.run(MobileObjectSpy.java:1341)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+2021-09-30 17:40:38:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-30 17:41:08:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-30 18:33:56:09S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Mobile automation\TestLab\NewRelease\NewTestSet.csv] doesn't exist
+2021-09-30 18:34:10:09S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-09-30 18:48:27:09S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 09:03:00.989 ]
+2021-10-01 15:01:41:10S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2021-10-01 15:01:42:10S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-10-01 15:01:45:10S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%202.o%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2021-10-01 15:02:51:10S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-10-01 15:15:53:10S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS 2.o testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2021-10-01 18:13:19:10S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 03:11:39.565 ]
+2022-01-24 11:02:07:01S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2022-01-24 11:02:08:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-24 11:02:12:01S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/Testing%20API/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/Testing%20API/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2022-01-24 15:16:02:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-24 15:24:47:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-24 15:26:05:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-24 15:27:25:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-24 15:29:55:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-24 15:58:18:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-24 16:05:29:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-24 16:10:27:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-24 16:14:20:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-24 16:17:54:01S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Image Testing\TestLab\NewRelease\NewTestSet.csv] doesn't exist
+2022-01-24 16:18:23:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-24 16:39:10:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-24 16:43:01:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-24 16:46:43:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-24 16:56:07:01S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestLab\NewRelease\NewTestSet0.csv] doesn't exist
+2022-01-24 17:17:03:01S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 06:14:58.396 ]
+2022-01-25 13:22:56:01S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2022-01-25 13:22:57:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-25 13:22:59:01S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/Testing%20API/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/Testing%20API/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2022-01-25 13:32:16:01S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestLab\NewRelease\NewTestSet1.csv] doesn't exist
+2022-01-25 14:04:16:01S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 00:41:20.354 ]
+2022-01-28 10:06:59:01S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2022-01-28 10:07:00:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-28 10:07:02:01S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/Testing%20API/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/Testing%20API/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2022-01-28 10:07:59:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-28 11:11:22:01S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 01:04:23.201 ]
+2022-01-28 15:50:06:01S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2022-01-28 15:50:07:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-28 15:50:10:01S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/Testing%20API/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/Testing%20API/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2022-01-28 16:31:46:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-28 16:32:15:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-28 17:07:58:01S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 01:17:51.397 ]
+2022-01-28 17:08:56:01S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2022-01-28 17:08:57:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-28 17:08:59:01S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/Testing%20API/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/Testing%20API/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2022-01-28 17:09:17:01S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 00:00:20.929 ]
+2022-01-31 11:02:36:01S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2022-01-31 11:02:37:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 11:02:39:01S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/Testing%20API/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/Testing%20API/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2022-01-31 11:31:49:01S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase0.csv] doesn't exist
+2022-01-31 11:36:06:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase0.csv Renamed to Integrated Test.csv
+2022-01-31 11:36:06:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase0] to [Integrated Test]
+2022-01-31 11:36:06:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase0] to [Integrated Test]
+2022-01-31 11:40:11:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 11:44:09:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 11:45:48:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 11:48:46:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 11:53:55:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 11:55:00:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 11:56:35:01S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase0.csv] doesn't exist
+2022-01-31 11:57:05:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase0.csv Renamed to JSON validation.csv
+2022-01-31 11:57:05:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase0] to [JSON validation]
+2022-01-31 11:57:05:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase0] to [JSON validation]
+2022-01-31 12:05:58:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 12:10:04:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 12:11:35:01S +0530 [WARNING] com.cognizant.cognizantits.ide.main.utils.table.XTableUtils pasteFromClipboard:Invalid Paste Type
+java.awt.datatransfer.UnsupportedFlavorException: Unicode String
+	at java.desktop/sun.awt.datatransfer.ClipboardTransferable.getTransferData(ClipboardTransferable.java:151)
+	at com.cognizant.cognizantits.ide.main.utils.table.XTableUtils.pasteFromClipboard(XTableUtils.java:88)
+	at com.cognizant.cognizantits.ide.main.utils.keys.ClipboardKeyAdapter.keyReleased(ClipboardKeyAdapter.java:52)
+	at java.desktop/java.awt.AWTEventMulticaster.keyReleased(AWTEventMulticaster.java:268)
+	at java.desktop/java.awt.Component.processKeyEvent(Component.java:6596)
+	at java.desktop/javax.swing.JComponent.processKeyEvent(JComponent.java:2849)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6412)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.KeyboardFocusManager.redispatchEvent(KeyboardFocusManager.java:1950)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.dispatchKeyEvent(DefaultKeyboardFocusManager.java:870)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent(DefaultKeyboardFocusManager.java:1139)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(DefaultKeyboardFocusManager.java:1009)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.dispatchEvent(DefaultKeyboardFocusManager.java:835)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4892)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2772)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+2022-01-31 12:11:37:01S +0530 [WARNING] com.cognizant.cognizantits.ide.main.utils.table.XTableUtils pasteFromClipboard:Invalid Paste Type
+java.awt.datatransfer.UnsupportedFlavorException: Unicode String
+	at java.desktop/sun.awt.datatransfer.ClipboardTransferable.getTransferData(ClipboardTransferable.java:151)
+	at com.cognizant.cognizantits.ide.main.utils.table.XTableUtils.pasteFromClipboard(XTableUtils.java:88)
+	at com.cognizant.cognizantits.ide.main.utils.keys.ClipboardKeyAdapter.keyReleased(ClipboardKeyAdapter.java:52)
+	at java.desktop/java.awt.AWTEventMulticaster.keyReleased(AWTEventMulticaster.java:268)
+	at java.desktop/java.awt.Component.processKeyEvent(Component.java:6596)
+	at java.desktop/javax.swing.JComponent.processKeyEvent(JComponent.java:2849)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6412)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.KeyboardFocusManager.redispatchEvent(KeyboardFocusManager.java:1950)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.dispatchKeyEvent(DefaultKeyboardFocusManager.java:870)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent(DefaultKeyboardFocusManager.java:1139)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(DefaultKeyboardFocusManager.java:1009)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.dispatchEvent(DefaultKeyboardFocusManager.java:835)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4892)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2772)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+2022-01-31 12:11:38:01S +0530 [WARNING] com.cognizant.cognizantits.ide.main.utils.table.XTableUtils pasteFromClipboard:Invalid Paste Type
+java.awt.datatransfer.UnsupportedFlavorException: Unicode String
+	at java.desktop/sun.awt.datatransfer.ClipboardTransferable.getTransferData(ClipboardTransferable.java:151)
+	at com.cognizant.cognizantits.ide.main.utils.table.XTableUtils.pasteFromClipboard(XTableUtils.java:88)
+	at com.cognizant.cognizantits.ide.main.utils.keys.ClipboardKeyAdapter.keyReleased(ClipboardKeyAdapter.java:52)
+	at java.desktop/java.awt.AWTEventMulticaster.keyReleased(AWTEventMulticaster.java:268)
+	at java.desktop/java.awt.Component.processKeyEvent(Component.java:6596)
+	at java.desktop/javax.swing.JComponent.processKeyEvent(JComponent.java:2849)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6412)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.KeyboardFocusManager.redispatchEvent(KeyboardFocusManager.java:1950)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.dispatchKeyEvent(DefaultKeyboardFocusManager.java:870)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent(DefaultKeyboardFocusManager.java:1139)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(DefaultKeyboardFocusManager.java:1009)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.dispatchEvent(DefaultKeyboardFocusManager.java:835)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4892)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2772)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+2022-01-31 12:12:37:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 12:13:00:01S +0530 [INFO] com.cognizant.cognizantits.ide.main.mainui.components.testdesign.tree.ProjectTree deleteTestCases:Delete TestCases approved for 1; [Endpoint]
+2022-01-31 12:13:00:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\Endpoint.csv
+2022-01-31 12:13:05:01S +0530 [INFO] com.cognizant.cognizantits.ide.main.mainui.components.testdesign.tree.ProjectTree deleteScenarios:Delete Scenarios approved for 1; [Rest]
+2022-01-31 12:13:05:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest
+2022-01-31 12:13:12:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 12:14:05:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 12:15:32:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 12:16:50:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 12:18:45:01S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\Get.csv] doesn't exist
+2022-01-31 12:18:47:01S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\Get1.csv] doesn't exist
+2022-01-31 12:18:53:01S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\Delete.csv] doesn't exist
+2022-01-31 12:19:01:01S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\NewTestCase.csv] doesn't exist
+2022-01-31 12:19:02:01S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\post.csv] doesn't exist
+2022-01-31 12:19:28:01S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\Rest\TC_11.csv] doesn't exist
+2022-01-31 12:22:59:01S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 01:20:23.374 ]
+2022-01-31 12:23:01:01S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2022-01-31 12:23:02:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 12:23:05:01S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/Testing%20API/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/Testing%20API/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2022-01-31 12:24:29:01S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 00:01:28.025 ]
+2022-01-31 12:24:31:01S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2022-01-31 12:24:32:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 12:24:34:01S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/Testing%20API/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/Testing%20API/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2022-01-31 12:24:51:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\Login\Email address\Email address
+2022-01-31 12:24:51:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\Login\Email address
+2022-01-31 12:24:51:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\Login\passwd\passwd
+2022-01-31 12:24:51:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\Login\passwd
+2022-01-31 12:24:51:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\Login\Sign in\Sign in
+2022-01-31 12:24:51:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\Login\Sign in
+2022-01-31 12:24:51:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\Login\Sign in1\Sign in1
+2022-01-31 12:24:51:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\Login\Sign in1
+2022-01-31 12:24:51:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\Login
+2022-01-31 12:24:57:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\Order\Women\Women
+2022-01-31 12:24:57:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\Order\Women
+2022-01-31 12:24:57:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\Order
+2022-01-31 12:25:15:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\OrangeHRM\LOGIN\LOGIN
+2022-01-31 12:25:15:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\OrangeHRM\LOGIN
+2022-01-31 12:25:15:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\OrangeHRM\txtPassword\txtPassword
+2022-01-31 12:25:15:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\OrangeHRM\txtPassword
+2022-01-31 12:25:15:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\OrangeHRM\txtUsername\txtUsername
+2022-01-31 12:25:15:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\OrangeHRM\txtUsername
+2022-01-31 12:25:15:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\OrangeHRM
+2022-01-31 12:25:20:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\My\Search\Search
+2022-01-31 12:25:20:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\My\Search
+2022-01-31 12:25:20:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\My\Search1\Search1
+2022-01-31 12:25:20:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\My\Search1
+2022-01-31 12:25:20:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\My\Search2\Search2
+2022-01-31 12:25:20:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\My\Search2
+2022-01-31 12:25:20:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\ObjectRepository\My
+2022-01-31 12:25:26:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 12:25:50:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 12:28:42:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 12:39:13:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 12:41:00:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 12:41:30:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 12:44:36:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 14:38:29:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 14:38:56:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 14:39:23:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 14:40:33:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 14:50:25:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\NewScenario Renamed to BrowserTest
+2022-01-31 14:50:25:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorScenario:Refactoring started for Scenario [NewScenario] to [BrowserTest]
+2022-01-31 14:50:25:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorScenario:Refactoring done for Scenario [NewScenario] to [BrowserTest]
+2022-01-31 14:50:36:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestPlan\BrowserTest\NewTestCase.csv Renamed to GooglePage.csv
+2022-01-31 14:50:36:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase] to [GooglePage]
+2022-01-31 14:50:37:01S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase] to [GooglePage]
+2022-01-31 17:38:08:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 18:29:39:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 18:30:11:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 18:43:01:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 18:44:31:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 19:03:42:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 19:05:06:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 19:27:42:01S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-01-31 19:46:40:01S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 07:22:09.888 ]
+2022-03-02 10:02:17:03S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2022-03-02 10:02:18:03S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-03-02 10:02:21:03S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/Testing%20API/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/Testing%20API/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2022-03-02 10:02:48:03S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestLab\Release1\NewTestSet.csv] doesn't exist
+2022-03-02 10:02:54:03S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\Projects\Testing\TestLab\Release1\NewTestSet.csv Renamed to usetag.csv
+2022-03-02 10:05:49:03S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-03-02 19:32:01:03S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 09:29:45.751 ]
+2022-05-02 11:42:42:05S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2022-05-02 11:42:44:05S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\Testing API\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2022-05-02 11:42:48:05S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/Testing%20API/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/Testing%20API/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2022-05-02 11:44:20:05S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 00:01:37.934 ]
+2023-07-10 12:47:06:07S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2023-07-10 12:47:08:07S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS - Mobile testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2023-07-10 12:47:15:07S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%20-%20Mobile%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/890257/CITS%20-%20Mobile%20testing/cognizant-intelligent-test-scripter/Dist/release/lib/slf4j-simple-1.7.30.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2023-07-10 12:48:03:07S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:C:\Users\890257\CITS - Mobile testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Mobile automation\TestPlan\NewScenario0 Renamed to TDRA
+2023-07-10 12:48:03:07S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorScenario:Refactoring started for Scenario [NewScenario0] to [TDRA]
+2023-07-10 12:48:03:07S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorScenario:Refactoring done for Scenario [NewScenario0] to [TDRA]
+2023-07-10 12:48:06:07S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [C:\Users\890257\CITS - Mobile testing\cognizant-intelligent-test-scripter\Dist\release\Projects\Mobile automation\TestPlan\TDRA\NewTestCase.csv] doesn't exist
+2023-07-10 13:15:55:07S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\890257\CITS - Mobile testing\cognizant-intelligent-test-scripter\Dist\release\lib\cognizant-intelligent-test-scripter-engine-2.0.jar
+2023-07-10 13:19:51:07S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 00:32:45.654 ]
